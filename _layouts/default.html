@@ -28,9 +28,9 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<header class="site-header">
-  <a href="{{ "/" | relative_url }}" class="site-title">
-    <img src="{{ "/logo.svg" | relative_url }}" alt="Benture Logo" class="site-logo">
+<header>
+  <a href="{{ "/" | relative_url }}" class="title">
+    <img src="{{ "/logo.svg" | relative_url }}" alt="Benture Logo" style="height: 40px; vertical-align: middle; margin: 0px 0px;">
     {{ site.title | escape }}
   </a>
   {% include menu.html menu=pages %}

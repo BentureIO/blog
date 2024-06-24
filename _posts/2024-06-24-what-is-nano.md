@@ -45,13 +45,15 @@ To create a job posting, you'll need some Nano. Here are some ways to buy it:
 - Identity verification might be needed
 
 # Nano wallets
+
 Benture includes an integrated Nano wallet for convenient job posting payments, however, for securely storing large amounts of Nano, we strongly recommend using self-custodial wallets, where you alone hold the private key to your Nano account.
 
 Here are some recommended Nano wallets:
-|Mobile wallets|Web wallets|Multiplatform|
-|--|--|--|
-|[Nautilus](https://nautilus.io)|[Nault.cc](https://nault.cc)|[Cake Wallet](https://cakewallet.com)
-|[Natrium](https://natrium.io)|
+
+| Mobile wallets                             | Web wallets                 | Multiplatform               |
+|------------------------------------------- |---------------------------- |---------------------------- |
+| [Nautilus](https://nautilus.io)            | [Nault.cc](https://nault.cc)| [Cake Wallet](https://cakewallet.com) |
+| [Natrium](https://natrium.io)              |                            |                            |
 
 # Possibilities
 

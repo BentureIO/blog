@@ -104,21 +104,21 @@ A good resume should be clear, concise, and highlight your relevant experience a
 - **Contact Information:** Name, email, etc.
 - **Professional Summary:** A brief overview of your expertise.
 - **Skills:** List of relevant skills.
-- **Experience:** Previous jobs or projects.
-- **Education:** Degrees or certifications.
-- **Portfolio:** Links to relevant work.
+- **Work Experience:** Previous jobs or projects.
+- **Education:** Your degrees.
+- **Portfolio:** Link to relevant work.
 
 ### How to Create a Resume on Benture
-Benture makes it easy to create a professional resume:
+Benture makes it easy & completely free to create a professional resume:
 
 1. **Visit [Benture.io](https://benture.io):** Click on "CREATE A CV" button.
 2. **Fill Out the Form:** Enter your details, including education, experience, and skills.
-3. **Choose a Template:** Select a visually appealing template.
+3. **Choose a Theme:** Select a visually appealing theme and font.
 4. **Download or Share:** Save your resume as a PDF or share the link.
 
 By following these steps, you can create a resume that stands out to potential employers.
 
 ## You can do it!
-Finding a fully remote Web3 job requires a mix of the right skills, a good understanding of the job market, and a professional resume. By focusing on learning and showcasing your expertise, you can successfully navigate the Web3 job landscape and find a fulfilling remote role.
+Finding a fully remote Web3 job requires a mix of the right skills, a good understanding of the job market, and a professional resume. By focusing on learning and showcasing your expertise, you can successfully navigate the Web3 job landscape and find a fulfilling remote crypto job.
 
 Remember to use platforms like [Benture](https://benture.io) to simplify your job search and resume creation process. Good luck!

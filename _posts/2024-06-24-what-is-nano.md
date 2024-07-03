@@ -6,6 +6,8 @@ date: 2024-06-24
 
 # What is Nano?
 
+![Nano](https://i.imgur.com/QwRrKBv.png)
+
 Nano stands out among cryptocurrencies with its notable benefits:
 
 - **Instant:** Transactions are finalized in under a second.

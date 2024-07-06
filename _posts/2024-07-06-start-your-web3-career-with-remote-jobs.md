@@ -38,29 +38,29 @@ Working in Web3 means being at the cutting edge of technology. You will have the
 
 Developers are crucial in the Web3 ecosystem. Common roles include:
 
-- **[Software Engineer, API Products](http://benture.io/job/software-engineer-api-products-at-0x)**: At 0x, the mission is to eliminate the complexity of accessing tokens and liquidity, offering a suite of developer APIs.
-- **[Lead Blockchain Developer](http://benture.io/job/lead-blockchain-developer-at-big-time)**: Big Time is a bold new game studio building cutting-edge AAA entertainment for the 21st century, looking for a blockchain developer to design and implement secure blockchain-based networks.
+- **[Software Engineer, API Products](https://benture.io/job/software-engineer-api-products-at-0x)**: At 0x, the mission is to eliminate the complexity of accessing tokens and liquidity, offering a suite of developer APIs.
+- **[Lead Blockchain Developer](https://benture.io/job/lead-blockchain-developer-at-big-time)**: Big Time is a bold new game studio building cutting-edge AAA entertainment for the 21st century, looking for a blockchain developer to design and implement secure blockchain-based networks.
 
 ### 2. Designer Jobs
 
 Designers ensure that Web3 applications are user-friendly and visually appealing. Key roles include:
 
-- **[Product Designer](http://benture.io/job/product-designer-at-gumroad)**: Improve Gumroad by designing product features, primarily in Figma, and writing some code (HTML, CSS, TypeScript, JavaScript).
-- **[Designer for Web3 / Crypto App](http://benture.io/job/designer-for-web3-crypto-app-at-klink-finance)**: Lead visual presentation across product and social channels for Klink Finance, a platform combining quest-based task rewards with strategic investing opportunities.
+- **[Product Designer](https://benture.io/job/product-designer-at-gumroad)**: Improve Gumroad by designing product features, primarily in Figma, and writing some code (HTML, CSS, TypeScript, JavaScript).
+- **[Designer for Web3 / Crypto App](https://benture.io/job/designer-for-web3-crypto-app-at-klink-finance)**: Lead visual presentation across product and social channels for Klink Finance, a platform combining quest-based task rewards with strategic investing opportunities.
 
 ### 3. Marketing and Community Management
 
 Web3 projects thrive on community support. Marketing and community management roles include:
 
-- **[Senior Marketing Manager](http://benture.io/job/senior-marketing-manager-at-octav-1)**: Lead the marketing team at Octav, an on-chain data labeling and categorization platform.
-- **[Head of Web3 Social Growth](http://benture.io/job/head-of-web3-social-growth-at-openserv)**: Build and engage a dynamic community of Web3 investors and stakeholders for OpenServ.
+- **[Senior Marketing Manager](https://benture.io/job/senior-marketing-manager-at-octav-1)**: Lead the marketing team at Octav, an on-chain data labeling and categorization platform.
+- **[Head of Web3 Social Growth](https://benture.io/job/head-of-web3-social-growth-at-openserv)**: Build and engage a dynamic community of Web3 investors and stakeholders for OpenServ.
 
 ### 4. Project Management
 
 Effective project management is key to the success of Web3 projects. Roles include:
 
-- **[Technical Project Manager](http://benture.io/job/technical-project-manager-at-octav)**: Manage the technical aspects of product development at Octav, ensuring alignment with DeFi space needs.
-- **[Product Owner](http://benture.io/job/product-owner-at-blockchain-startup-crypto-app-at-klink-finance)**: Implement and manage the product roadmap for Klink’s website, mobile, and web app.
+- **[Technical Project Manager](https://benture.io/job/technical-project-manager-at-octav)**: Manage the technical aspects of product development at Octav, ensuring alignment with DeFi space needs.
+- **[Product Owner](https://benture.io/job/product-owner-at-blockchain-startup-crypto-app-at-klink-finance)**: Implement and manage the product roadmap for Klink’s website, mobile, and web app.
 
 ## How to Find Remote Web3 Jobs
 

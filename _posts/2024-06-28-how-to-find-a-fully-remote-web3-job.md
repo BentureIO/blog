@@ -6,8 +6,6 @@ date: 2024-06-28
 
 ![Remote Web3 Job](https://i.imgur.com/RuaKzgB.png)
 
-# How to Find a Fully Remote Web3 Job
-
 The Web3 landscape is developing with remote job opportunities, making it a prime field for those looking to work from anywhere. This guide will help you navigate the process of finding a fully remote Web3 job by focusing on the skills you need, the types of jobs available, and practical tips for standing out.
 
 ## Identify Your Skills

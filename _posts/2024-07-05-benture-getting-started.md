@@ -6,8 +6,6 @@ date: 2024-07-05
 
 ![Benture Logo](https://benture.io/assets/img/logo.svg)
 
-# 10 Things You Should Know About Benture (General FAQ)
-
 Benture is a job board designed to connect talent with opportunities in cutting-edge technology fields like AI and blockchain. Whether you're an employer looking for the perfect candidate or a job seeker looking for the ideal role, Benture offers a platform that meets your needs. Here are 10 things you should know about Benture!
 
 ## 1. Does Benture Only Support Crypto Jobs?

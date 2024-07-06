@@ -4,8 +4,6 @@ title: "Start Your Web3 Career with Remote Jobs"
 date: 2024-07-06
 ---
 
-![Find your remote job today with Benture](https://benture.io/assets/img/benture_ad.png)
-
 Are you a looking for a remote Web3 job? The world of Web3, crypto, and AI is full of opportunities, especially for those seeking work-from-home jobs. This guide will help you navigate the landscape of remote Web3 jobs and kickstart your Web3 career.
 
 ## What is Web3?

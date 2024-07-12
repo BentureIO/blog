@@ -19,7 +19,7 @@ Web3 represents the next generation of the internet, characterized by decentrali
 
 ## Top Remote Web3 Job Opportunities on Benture
 
-### 1. **Senior DevOps Engineer at Monad Labs**
+### [1. **Senior DevOps Engineer at Monad Labs**](https://benture.io/job/senior-devops-engineer-at-monad)
 
 **[Senior DevOps Engineer](https://benture.io/job/senior-devops-engineer-at-monad)** at Monad Labs involves building and maintaining infrastructure for a high-performance blockchain. Ideal for those with strong Linux systems knowledge and experience in DevOps environments.
 
@@ -33,7 +33,7 @@ Web3 represents the next generation of the internet, characterized by decentrali
 - Proficiency in Python, Go, or C++.
 - Experience with CI/CD platforms like GitHub Actions or Jenkins.
 
-### 2. **People Operations and Development Manager at Messari**
+### [2. **People Operations and Development Manager at Messari**](https://benture.io/job/people-operations-and-development-manager-at-messari)
 
 **[People Operations and Development Manager](https://benture.io/job/people-operations-and-development-manager-at-messari)** focuses on HR operations and talent development in a remote-first environment. Perfect for those with a background in HR and a passion for crypto.
 
@@ -47,9 +47,9 @@ Web3 represents the next generation of the internet, characterized by decentrali
 - Strong knowledge of HR policies and compliance.
 - Excellent communication and organizational skills.
 
-### 3. **Software Engineer at Gumroad**
+### [3. **Software Engineer at Gumroad**](https://benture.io/job/software-engineer-at-gumroad-at-gumroad)
 
-**[Software Engineer](https://benture.io/job/software-engineer-at-gumroad)** at Gumroad involves improving their platform by shipping product features and fixing bugs. This role is ideal for those proficient in Ruby on Rails, React, and TypeScript.
+**[Software Engineer](https://benture.io/job/software-engineer-at-gumroad-at-gumroad)** at Gumroad involves improving their platform by shipping product features and fixing bugs. This role is ideal for those proficient in Ruby on Rails, React, and TypeScript.
 
 **Responsibilities**:
 - Shipping product features and fixing bugs.
@@ -61,7 +61,7 @@ Web3 represents the next generation of the internet, characterized by decentrali
 - Strong problem-solving skills.
 - Ability to work independently in a remote environment.
 
-### 4. **UI/UX Designer at Rotki**
+### [4. **UI/UX Designer at Rotki**](https://benture.io/job/ui-ux-designer-at-rotki)
 
 **[UI/UX Designer](https://benture.io/job/ui-ux-designer-at-rotki)** focuses on improving the user experience for a blockchain transaction management tool. Suitable for designers with a passion for blockchain and privacy-focused applications.
 
@@ -75,7 +75,7 @@ Web3 represents the next generation of the internet, characterized by decentrali
 - Familiarity with blockchain technology.
 - Proficiency in design tools like Figma and Photoshop.
 
-### 5. **Lead Blockchain Developer at Big Time**
+### [5. **Lead Blockchain Developer at Big Time**](https://benture.io/job/lead-blockchain-developer-at-big-time)
 
 **[Lead Blockchain Developer](https://benture.io/job/lead-blockchain-developer-at-big-time)** involves designing and implementing secure blockchain-based networks. Ideal for developers with experience in C++, Java, Javascript, or Python.
 

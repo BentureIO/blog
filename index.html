@@ -4,14 +4,7 @@ title: "Home"
 ---
 
 {% if site.show_excerpts %}
-  {% for post in site.posts %}
-    <article>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-      {{ post.excerpt }}
-      <a href="{{ post.url | relative_url }}">Read more</a>
-    </article>
-  {% endfor %}
+  {% include home.html truncate=true %}
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}

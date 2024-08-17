@@ -3,7 +3,7 @@ author: "Yusuf Gürdoğan"
 description: "<a href=\"https://benture.io\">benture.io</a>"
 permalink: /:title/
 lang: "en"
-excerpt_separator: <!--more-->
+excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout

@@ -1,4 +1,8 @@
-# AI Training Jobs in 2025: Mercor Takes the Lead
+---
+layout: post
+title: "AI Training Jobs in 2025: Mercor Takes the Lead"
+date: 2025-05-14
+---
 
 Mercor has emerged as the dominant force in the AI training job market in 2025. Working directly with top AI firms including OpenAI and xAI, Mercor is rapidly expanding and offering numerous remote opportunities for specialists across disciplines.
 

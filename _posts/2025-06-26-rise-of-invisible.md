@@ -2,7 +2,7 @@
 layout: post
 title: "Rise of Invisible Technologies — June 2025 Hiring Boom (and Mercor too)"
 date: 2025-06-26
-----------------
+---
 
 Sometimes, the job market can feel painfully still—then suddenly, there's movement everywhere. If you've felt overlooked, or are hoping for that one chance to break into tech, **this is your moment.**
 

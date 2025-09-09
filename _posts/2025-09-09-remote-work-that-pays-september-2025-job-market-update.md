@@ -4,7 +4,7 @@ title: "Remote Work That Pays: September 2025 Job Market Update"
 date: 2025-09-09
 ---
 
-If you've been watching the remote job space, you've probably felt it too. Something big is happening. And honestly, the numbers don't lie.
+If you've been watching the AI training job market, you've probably felt it too. Something big is happening. And honestly, the numbers don't lie.
 
 Benture just hit record traffic, with more people than ever finding real, remote work. We're talking **117,868 unique views** and counting, with job seekers from **185 active positions** finding opportunities that actually pay.
 
@@ -30,6 +30,15 @@ Our most visited job has been [Creative Writers and Generalists](https://benture
 ## What's Actually Hiring Right Now
 
 Mercor continues to dominate the opportunities. They're actively hiring across multiple specialties. Here's what just went live:
+
+### 🎓 PhD Roles Hiring Now
+
+* **[Expert PhD Math & Statistics AI Tutor](https://benture.io/job/expert-math-statistics-ai-tutor-at-mercor)** — **\$110–130/hr** · remote in US
+* **[Mathematics PhD Research Specialist](https://benture.io/job/mathematics-phd-research-specialist-at-mercor)** — **\$65–85/hr** · remote
+* **[Physics PhD Consultant](https://benture.io/job/physics-phd-consultant-at-mercor)** — **\$100–150/hr** · remote
+* **[Remote STEM PhD AI Consultant](https://benture.io/job/remote-stem-phd-ai-consultant-at-mercor)** — **\$55–90/hr** · remote
+
+> Have a STEM PhD but not a perfect match? Apply anyway! Mercor’s AI interview is quick, and relevant research or teaching experience often transfers well.
 
 ### Customer Support Experts (All $110/hr)
 
@@ -57,7 +66,7 @@ These are all remote positions at $110/hour, and they're specifically looking fo
 
 Mercor continues to lead because they're partnering directly with leading AI labs, paying through Stripe Connect (so you get paid fast), and they're hiring specialists with relevant experience.
 
-They want people who have done similar work before. People with experience in these specific areas. People who have handled banking disputes, manufacturing defects, insurance claims and understand the nuances of these situations.
+They want people who have done similar work before. They are quite hungry for expert people in these specific areas.
 
 The pay reflects the value they place on relevant experience. $110/hour shows they're serious about finding the right people.
 
@@ -71,13 +80,13 @@ What they're looking for is relevant experience. If you're applying for the bank
 
 Don't overthink it. If you have experience in the field, apply. If you don't have direct experience but have transferable skills, consider how your background might apply.
 
+We have noticed that, the ones that keeps applying (and is actually completes their job application) to jobs on Mercor eventually lands on a job. There are lots and lots of incomplete job applications. "Oh they want an interview, I might do it later" do it now, or it might be too late. It's an AI interview anyway.
+
 ---
 
 ## What This Means for You
 
-The remote job market has been tough. We know it, you know it, everyone knows it. But these numbers tell the story: 117,868 people looking, 30+ people hired through just one company. Real opportunities are still out there.
-
-They're just harder to find, and they look for specific experience when you find them.
+Real opportunities are still out there. They're just harder to find, and they look for specific experience when you find them.
 
 If you have experience in any specific field, this could be your opportunity. Companies like Mercor are paying well for relevant expertise, and they're hiring globally.
 
